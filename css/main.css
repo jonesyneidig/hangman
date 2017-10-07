@@ -1,0 +1,44 @@
+.guessed {
+    font-size: 25px;
+}
+
+
+
+
+.image0, .image1, .image2, .image3, .image4, .image5, .image6, .image7, .image8, .image9, .image10{
+    width: 120px;
+    height: 164px;
+    background: url('../img/0.png');
+    background-position: 0px 0px;
+}
+
+.image1 {
+    background: url('../img/1.png');
+}
+.image2 {
+    background: url('../img/2.png');
+}
+.image3 {
+    background: url('../img/3.png');
+}
+.image4 {
+    background: url('../img/4.png');
+}
+.image5 {
+    background: url('../img/5.png');
+}
+.image6 {
+    background: url('../img/6.png');
+}
+.image7 {
+    background: url('../img/7.png');
+}
+.image8 {
+    background: url('../img/8.png');
+}
+.image9 {
+    background: url('../img/9.png');
+}
+.image10 {
+    background: url('../img/10.png');
+}
